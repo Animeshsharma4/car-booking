@@ -8,12 +8,7 @@
 
 </p>
 
-**AWS Hosting:**
 
-![aws-s3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Visit The Website Now:**
-[Visit Now](http://43.205.95.49/) 🚀
 
 Welcome to my project! This is a Cab Booking App made with MERN stack. It lets users quickly and easily book cabs with multiple options and price variations. With this App, users can effortlessly reach their destination in the minimum time and price.
 
@@ -36,12 +31,6 @@ Admins can view all the user's email id, the number of cabs they have booked who
 - User friendly UI
 
 
-## clone or download
-```terminal
-$ git clone https://github.com/rakshit-2/scaler_assignment.git
-$ cd client(ReactJs),cd server(NodeJs)
-$ yarn # or npm i
-```
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
@@ -94,29 +83,3 @@ react-router-dom: ^4.2.2 | mongoose: ^7.0.3
 axios: ^1.3.5 | 
 @mui/material ^5.12.1 |
 
-## Screenshots of this project
-
-### User visit Landing page
-![ss1](https://user-images.githubusercontent.com/86184006/232975942-8135ec2d-3772-43d1-86ca-e6664aafdd1b.png)
-
-### User visit Cab Booking
-![ss2](https://user-images.githubusercontent.com/86184006/232976092-5e9d64ee-476d-41d8-a6a4-d540d58d410e.png)
-
-
-### Responsive Web Design
-
-![ss5](https://user-images.githubusercontent.com/86184006/232976182-c2cf7033-efe0-4006-acba-b133473b1979.png)
-![ss7](https://user-images.githubusercontent.com/86184006/232976684-965ffa55-254e-42e1-b04a-b50a8c431d24.png)
-
-
-
-
-## Standard
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## BUGs or comments
-
-[Create new Issues](https://github.com/rakshit-2/scaler_assignment.git) (preferred)
-
-Email Me: rakshit4013@gmail.com (welcome, say hi)
